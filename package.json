@@ -1,0 +1,7 @@
+{
+  "name": "playwright-repro-14366-unexpected-browsers-missing-conflicting-deps",
+  "devDependencies": {
+    "@percy/playwright": "1.0.3",
+    "@playwright/test": "1.21.1"
+  }
+}
